@@ -25,3 +25,5 @@ public class ExampleInstrumentedTest {
         assertEquals("laquay.com.open.canalestdt", appContext.getPackageName());
     }
 }
+
+new string: "hola"
